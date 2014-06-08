@@ -9,7 +9,7 @@ For example, the following text:
 
 ```
 <a>this &amp; th&aacute;t</b> &gt; 3 H&amp;
-^.........^.........^........^.........^...
+^.........^.........^.........^.........^...
 ```
 
 will output the following tokens:
